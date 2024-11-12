@@ -1,3 +1,3 @@
 • Jetpack Compose
-• Quottes Application
+• Quotes Application
 
