@@ -40,10 +40,7 @@ import com.example.myjetpack1.quot_screens.QuotDetailScreen
 import com.example.myjetpack1.quot_screens.QuoteListScreen
 import kotlinx.coroutines.CoroutineScope
 import kotlinx.coroutines.Dispatchers
-import kotlinx.coroutines.delay
 import kotlinx.coroutines.launch
-import kotlin.text.Typography.quote
-//import com.example.myjetpack1.quot_screens.QuotDetailScreen
 
 
 class MainActivity : ComponentActivity() {
